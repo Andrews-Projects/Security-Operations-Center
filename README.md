@@ -6,7 +6,7 @@ This project aims to implement various aspects of a security operations center,t
 
 ### Implementations will include:
 
-1. Intrusion prevention & detection with Snort.
+1. Intrusion prevention & detection with Snort & ELK Stack for Log monitoring.
 2. Vulnerability Scanner (OpenVAS).
 3. Network monitoring with Nagios.
 4. Maltego.
