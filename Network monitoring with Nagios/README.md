@@ -1,4 +1,4 @@
-# Nagios Network Analyzer
+# Nagios Network Monitor
 
 In this section I plan to implement Nagios,the network monitoring tool, to monitor the 3 Ubuntu based servers created
 in the 1st project to learn Ansible & Vagrant.   [Link to 1st project](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment)
