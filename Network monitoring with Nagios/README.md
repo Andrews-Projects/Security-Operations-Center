@@ -10,7 +10,7 @@ The architecture is abit crazy but i'm simply using the resources at my disposal
 
 ## My architecture: 
 
-![Image](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/nagios.png)
+![Image](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/images/nagios.png)
 
 
 I set-up an Ubuntu Server on the VmWare workstation & install Nagios
@@ -26,24 +26,23 @@ The next step after finishing installation is to visit:
 http://172.x.x.x/nagiosna/
 
 This is the home Nagios home page to create an account & then login
-![Nagios_Login_Page](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/nagios_login.png)
+![Nagios_Login_Page](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/images/nagios_login.png)
 
 ## Next Step: 
 
 Create Source,this is the source of the network traffic from your configured online servers.
 
-![Create source page](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/create%20source.png)
+![Create source page](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/images/create%20source.png)
 
 After adding my 2 Ubuntu Servers this is the final result viewed from the Nagios home page.
 
-![Sources](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/nagiospanel.png)
-
+![Sources](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/images/nagiospanel.png)
 
 ## Final Overview
 
 After all has been set up,Ubuntu Nagios server ---> Ubuntu Server 1 & Ubuntu Server 2
 
-![screenshot](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/allactivity.png)
+![screenshot](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/images/allactivity.png)
 
 
 ### To liven things up I wanted to see if it was possble to perform a **ping flood attack** on Server 2 from Server 1
