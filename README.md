@@ -4,6 +4,15 @@
 
 This project aims to implement various aspects of a security operations center,tools used & methodologies using various open source technologies.This is simply my form of project based learning.
 
+The main functions of a SOC are as follow:
+- Take Stock of Available Resources.
+- Preparation and Preventative Maintenance.
+- Continuous Proactive Monitoring.
+- Alert Ranking and Management.
+- Threat response.
+- Recovery and Remediation
+- Log Management
+
 ### Implementations will include:
 
 1. Intrusion prevention & detection with Snort.
