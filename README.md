@@ -8,7 +8,7 @@ This project aims to implement various aspects of a security operations center,t
 
 1. Intrusion prevention & detection with Snort.
 2. Vulnerability Scanner (OpenVAS).
-3. Network monitoring with Zabbix & bandwidth monitoring.
+3. Network monitoring with Nagios.
 4. Maltego.
 5. Firewall:
 - Bandwidth control and monitoring.
