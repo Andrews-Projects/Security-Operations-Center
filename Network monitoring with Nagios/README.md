@@ -46,10 +46,7 @@ After all has been set up,Ubuntu Nagios server ---> Ubuntu Server 1 & Ubuntu Ser
 ![screenshot](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/allactivity.png)
 
 
-
-
-
-To liven things up I wanted to see if it was possble to perform a **ping flood attack** on Server 2 from Server 1
+### To liven things up I wanted to see if it was possble to perform a **ping flood attack** on Server 2 from Server 1
 i.e a Denial of Service attack.And see if i will be able to capture the traffic through Nagios.
 
 └──╼ $ ping 172.16.x.x -l 65500 -w 1 -n 1  
@@ -59,7 +56,7 @@ But it wasnt successfull and i go an error message
 ping:packet size 65500 is too large. Maximum is 65467,So I tried to reduce its size to 60000.Ping flooding didnt work.But it was fun
 
 
-#Set-up is complete,Nagios has been set-up,2 servers are up and have been connected to it,communication has been established. 
+# Set-up is complete,Nagios has been set-up,2 servers are up and have been connected to it,communication has been established. 
 
 
 
