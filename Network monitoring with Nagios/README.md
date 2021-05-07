@@ -6,9 +6,11 @@ in the 1st project to learn Ansible & Vagrant.   [Link to 1st project](https://g
 As per the installation instructions in their official documentation,Nagios should be installed on a fresh system to avoid failure of existing sytems due 
 to the modification it makes to the system.   [View Installation Guide](https://assets.nagios.com/downloads/nagios-network-analyzer/docs/Network_Analyzer_Manual_Installation_Instructions.pdf)
 
-The architecture is abit crazy but im simply using the resources at my disposal
+The architecture is abit crazy but i'm simply using the resources at my disposal as of the time of this writing.
 
-My architecture[Drawn image of setup]()
+## My architecture: 
+
+![Image](https://github.com/Andrews-Projects/Security-Operations-Center/blob/master/Network%20monitoring%20with%20Nagios/nagios.png)
 
 
 I set-up an Ubuntu Server on the VmWare workstation & install Nagios
