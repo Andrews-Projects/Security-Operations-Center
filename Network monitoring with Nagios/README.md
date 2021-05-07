@@ -51,7 +51,7 @@ After all has been set up,Ubuntu Nagios server ---> Ubuntu Server 1 & Ubuntu Ser
 
 └──╼ $ ping 172.16.x.x -l 65500 -w 1 -n 1  
 
-But it wasnt successfull and i go an error message 
+But it wasnt successful and i go an error message 
 
 ping:packet size 65500 is too large. Maximum is 65467,So I tried to reduce its size to 60000.Ping flooding didnt work.But it was fun
 
