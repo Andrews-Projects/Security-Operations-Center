@@ -26,3 +26,6 @@ Ubuntu server will be the logical choice because of its lightweight minimum requ
 - CPU: 1 GHz.
 
 - Storage: 1 GB disk space (1.75 GB for all features to be installed)
+
+
+## [Nagios Network monitoring implementation](https://github.com/Andrews-Projects/Security-Operations-Center/tree/master/Network%20monitoring%20with%20Nagios)
