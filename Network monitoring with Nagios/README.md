@@ -57,7 +57,7 @@ ping:packet size 65500 is too large. Maximum is 65467,So I tried to reduce its s
 
 ### Set-up is complete,Nagios has been set-up,2 servers are up and have been connected to it,communication has been established.
 
-# This is is for Nagios implementation.
+# This is it for Nagios Network Monitor implementation.
 
 
 
