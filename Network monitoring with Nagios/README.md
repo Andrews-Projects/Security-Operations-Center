@@ -20,3 +20,34 @@ Working on Ubuntu server I hasd to be root.
 └──╼ $ sudo -i
 
 └──╼ $ curl https://assets.nagios.com/downloads/nagios-network-analyzer/install.sh | sh
+
+The next step after finishing installation is to visit:
+
+http://172.x.x.x/nagiosna/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To liven things up I wanted to see if it was possble to perform a **ping flood attack** on Server 2 from Server 1
+i.e a Denial of Service attack.
+
+└──╼ $ ping 172.16.x.x -l 65500 -w 1 -n 1  But it wasnt successfull and i go an error message 
+
+ping:packet size 65500 is too large.Maximum is 65467,So I tried to reduce its size to 60000. 
+
+
+
+
+
+
+
