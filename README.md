@@ -10,8 +10,8 @@ The main functions of a SOC are as follow:
 - Continuous Proactive Monitoring.
 - Alert Ranking and Management.
 - Threat response.
-- Recovery and Remediation
-- Log Management
+- Recovery and Remediation.
+- Log Management.
 
 ### Implementations will include:
 
