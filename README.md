@@ -17,7 +17,7 @@ The main functions of a SOC are as follow:
 
 1. Intrusion prevention & detection with Snort & ELK Stack for Log monitoring.
 2. Vulnerability Scanner (OpenVAS).
-3. Network monitoring with Nagios.
+3. Network monitoring with Nagios. ----> Done.
 4. Maltego.
 5. Firewall:
 - Bandwidth control and monitoring.
@@ -36,5 +36,11 @@ Ubuntu server will be the logical choice because of its lightweight minimum requ
 
 - Storage: 1 GB disk space (1.75 GB for all features to be installed)
 
+## Implementations
 
-## [Nagios Network monitoring implementation](https://github.com/Andrews-Projects/Security-Operations-Center/tree/master/Network%20monitoring%20with%20Nagios)
+## 1.[Nagios Network monitoring implementation](https://github.com/Andrews-Projects/Security-Operations-Center/tree/master/Network%20monitoring%20with%20Nagios)
+
+## 2.[Elastic Stack Implementation]()
+
+
+
