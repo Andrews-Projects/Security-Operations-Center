@@ -26,6 +26,7 @@ The main functions of a SOC are as follow:
 - Logging.
 - Sandboxing.
 - Deep Packet Inspection.
+6. Splunk.
 
 To achieve practically I will have to set-up several virtual machines that will be act as independent servers.
 
