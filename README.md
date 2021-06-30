@@ -15,10 +15,10 @@ The main functions of a SOC are as follow:
 
 ### Implementations will include:
 
-1. Intrusion prevention & detection with Snort & ELK Stack for Log monitoring.
+1. Intrusion prevention & detection with Snort.
 2. Vulnerability Scanner (OpenVAS).
 3. Network monitoring with Nagios. ----> Done.
-4. Maltego.
+4. Maltego.(Perfoming reconnaisance)
 5. Firewall:
 - Bandwidth control and monitoring.
 - Web filtering.
@@ -27,6 +27,7 @@ The main functions of a SOC are as follow:
 - Sandboxing.
 - Deep Packet Inspection.
 6. Splunk.
+7. ELK Stack for Log monitoring
 
 To achieve practically I will have to set-up several virtual machines that will be act as independent servers.
 
